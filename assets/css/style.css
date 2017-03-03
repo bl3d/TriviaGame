@@ -4,8 +4,8 @@
 }
 
 body{
-	background-color: #000;	
-	opacity: 0.0;
+	background-color: #080c0d;	
+	/*opacity: 0.0;*/
 }
 
 
@@ -13,3 +13,12 @@ body{
 
 }
 
+
+
+#triviaGameBG{
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	 
+}
